@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
