@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
