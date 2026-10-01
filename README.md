@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0268-missing-number) |
+| [0754-reach-a-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0754-reach-a-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0268-missing-number) |
+| [0754-reach-a-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0754-reach-a-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
