@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0743-network-delay-time) |
+| [1791-find-center-of-star-graph](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
