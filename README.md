@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0973-k-closest-points-to-origin) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
