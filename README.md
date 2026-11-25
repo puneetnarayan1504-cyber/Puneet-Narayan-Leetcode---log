@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1672-richest-customer-wealth) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1352-product-of-the-last-k-numbers) |
 | [2235-add-two-integers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -282,10 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1480-running-sum-of-1d-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Monotonic Stack
