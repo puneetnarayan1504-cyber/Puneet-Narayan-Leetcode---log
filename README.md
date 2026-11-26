@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0977-squares-of-a-sorted-array) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0704-binary-search) |
@@ -555,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
