@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/1672-richest-customer-wealth) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/2652-sum-multiples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0658-find-k-closest-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -574,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/puneetnarayan1504-cyber/Puneet-Narayan-Leetcode---log/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
